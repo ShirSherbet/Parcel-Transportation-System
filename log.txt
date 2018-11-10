@@ -1,0 +1,464 @@
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Order S White
+Mar 25, 2017 6:51:00 PM event.OrderEvent processEvent
+INFO: Barcode reader: Order S White received
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Order SES Red
+Mar 25, 2017 6:51:00 PM event.OrderEvent processEvent
+INFO: Barcode reader: Order SES Red received
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Order SE Green
+Mar 25, 2017 6:51:00 PM event.OrderEvent processEvent
+INFO: Barcode reader: Order SE Green received
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Order S Green
+Mar 25, 2017 6:51:00 PM event.OrderEvent processEvent
+INFO: Barcode reader: Order S Green received
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Ready Picker Alice ready
+Mar 25, 2017 6:51:00 PM event.ReadyEvent processEvent
+INFO: Barcode reader: Alice, please go picking orders
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Alice scan 2 (wrong)
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Alice, please pick 1
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Alice: picked fascia sku #2
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Order SE Beige
+Mar 25, 2017 6:51:00 PM event.OrderEvent processEvent
+INFO: Barcode reader: Order SE Beige received
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Alice scan 2
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Alice, please pick 2
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Alice: picked fascia sku #2
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Alice scan 21
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Alice, please pick 21
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Alice: picked fascia sku #21
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Order SE Black
+Mar 25, 2017 6:51:00 PM event.OrderEvent processEvent
+INFO: Barcode reader: Order SE Black received
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Order SEL Green
+Mar 25, 2017 6:51:00 PM event.OrderEvent processEvent
+INFO: Barcode reader: Order SEL Green received
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Order S White
+Mar 25, 2017 6:51:00 PM event.OrderEvent processEvent
+INFO: Barcode reader: Order S White received
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Ready Picker Bob ready
+Mar 25, 2017 6:51:00 PM event.ReadyEvent processEvent
+INFO: Barcode reader: Bob, please go picking orders
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Alice scan 22
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Alice, please pick 22
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Alice: picked fascia sku #22
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Alice scan 25
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Alice, please pick 25
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Alice: picked fascia sku #25
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Alice scan 26
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Alice, please pick 26
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Alice: picked fascia sku #26
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Alice scan 27
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Alice, please pick 27
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Alice: picked fascia sku #27
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Alice scan 28
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Alice, please pick 28
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Alice: picked fascia sku #28
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Marshalling Picker Alice to Marshalling
+Mar 25, 2017 6:51:00 PM event.MarshallingEvent processEvent
+INFO: Barcode reader: Alice, please go to marshalling area
+Mar 25, 2017 6:51:00 PM warehouse.MySystem marshaling
+INFO: Alice: done marshalling
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Ready Sequencer Sue ready
+Mar 25, 2017 6:51:00 PM event.ReadyEvent processEvent
+INFO: Barcode reader: Sue, please go sequencing orders
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Ready Picker Alice ready
+Mar 25, 2017 6:51:00 PM event.ReadyEvent processEvent
+INFO: Barcode reader: Alice, please go picking orders
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue visually inspected false
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Barcode reader: picker please repick the orders
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Ready Sequencer Sue ready
+Mar 25, 2017 6:51:00 PM event.ReadyEvent processEvent
+INFO: Barcode reader: Sue, please go sequencing orders
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Alice scan 1
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Alice, please pick 1
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Alice: picked fascia sku #1
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Alice scan 2
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Alice, please pick 2
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Alice: picked fascia sku #2
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Alice scan 21
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Alice, please pick 21
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Alice: picked fascia sku #21
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Alice scan 22
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Alice, please pick 22
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Alice: picked fascia sku #22
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Alice scan 25
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Alice, please pick 25
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Alice: picked fascia sku #25
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Alice scan 26
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Alice, please pick 26
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Alice: picked fascia sku #26
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Alice scan 27
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Alice, please pick 27
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Alice: picked fascia sku #27
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Alice scan 28
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Alice, please pick 28
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Alice: picked fascia sku #28
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Marshalling Picker Alice to Marshalling
+Mar 25, 2017 6:51:00 PM event.MarshallingEvent processEvent
+INFO: Barcode reader: Alice, please go to marshalling area
+Mar 25, 2017 6:51:00 PM warehouse.MySystem marshaling
+INFO: Alice: done marshalling
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Ready Picker Alice ready
+Mar 25, 2017 6:51:00 PM event.ReadyEvent processEvent
+INFO: Barcode reader: Alice, please go picking orders
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue visually inspected true
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue scan 2
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: scanned fascia sku #2
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue scan 1
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: scanned fascia sku #1
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue scan 21
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: scanned fascia sku #21
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue scan 22
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: scanned fascia sku #22
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue scan 27
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: scanned fascia sku #27
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue scan 28
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: scanned fascia sku #28
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue scan 25
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: scanned fascia sku #25
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue scan 26
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: scanned fascia sku #26
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: Please rescan this set of orders.
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue rescan 1
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: rescanned fascia sku #1
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue rescan 2
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: rescanned fascia sku #2
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue rescan 21
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: rescanned fascia sku #21
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue rescan 22
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: rescanned fascia sku #22
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue rescan 27
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: rescanned fascia sku #27
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue rescan 28
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: rescanned fascia sku #28
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue rescan 25
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: rescanned fascia sku #25
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue rescan 26
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: rescanned fascia sku #26
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: done sequencing
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Barcode reader: Sue, please sequence the next set of orders
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Ready Loader Bill ready
+Mar 25, 2017 6:51:00 PM event.ReadyEvent processEvent
+INFO: Barcode reader: Bill, please go loading this request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Loader Bill scan 1
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Barcode reader: Bill, please load this request
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Bill: load the next request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Loader Bill scan 2
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Barcode reader: Bill, please load this request
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Bill: load the next request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Loader Bill scan 21
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Barcode reader: Bill, please load this request
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Bill: load the next request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Loader Bill scan 22
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Barcode reader: Bill, please load this request
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Bill: load the next request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Loader Bill scan 27
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Barcode reader: Bill, please load this request
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Bill: load the next request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Loader Bill scan 28
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Barcode reader: Bill, please load this request
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Bill: load the next request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Loader Bill scan 25
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Barcode reader: Bill, please load this request
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Bill: load the next request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Loader Bill scan 26
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Barcode reader: Bill, please load this request
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Bill: load the next request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Ready Replenisher Ruby ready
+Mar 25, 2017 6:51:00 PM event.ReadyEvent processEvent
+INFO: Barcode reader: Ruby, please go replenishing
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Ready Replenisher Parker ready
+Mar 25, 2017 6:51:00 PM event.ReadyEvent processEvent
+INFO: Barcode reader: Parker, please go replenishing
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Bob scan 1
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Bob, please pick 1
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Bob: picked fascia sku #1
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Bob scan 2
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Bob, please pick 2
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Bob: picked fascia sku #2
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Bob scan 11
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Bob, please pick 11
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Bob: picked fascia sku #11
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Replenisher Ruby replenish B 0 0 0
+Mar 25, 2017 6:51:00 PM event.ReplenisherEvent processEvent
+INFO: Barcode reader: Ruby please replenish B 0 0 0
+Mar 25, 2017 6:51:00 PM event.ReplenisherEvent processEvent
+INFO: Ruby: replenish B 0 0 0
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Replenisher Parker replenish B 0 0 1
+Mar 25, 2017 6:51:00 PM event.ReplenisherEvent processEvent
+INFO: Barcode reader: Parker please replenish B 0 0 1
+Mar 25, 2017 6:51:00 PM event.ReplenisherEvent processEvent
+INFO: Parker: replenish B 0 0 1
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Bob scan 12
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Bob, please pick 12
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Bob: picked fascia sku #12
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Bob scan 31
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Bob, please pick 31
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Bob: picked fascia sku #31
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Bob scan 32
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Bob, please pick 32
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Bob: picked fascia sku #32
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Bob scan 43
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Bob, please pick 43
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Bob: picked fascia sku #43
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Picker Bob scan 44
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Barcode reader: Bob, please pick 44
+Mar 25, 2017 6:51:00 PM event.PickerEvent processEvent
+INFO: Bob: picked fascia sku #44
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Marshalling Picker Bob to Marshalling
+Mar 25, 2017 6:51:00 PM event.MarshallingEvent processEvent
+INFO: Barcode reader: Bob, please go to marshalling area
+Mar 25, 2017 6:51:00 PM warehouse.MySystem marshaling
+INFO: Bob: done marshalling
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Ready Picker Bob ready
+Mar 25, 2017 6:51:00 PM event.ReadyEvent processEvent
+INFO: Barcode reader: Bob, please go picking orders
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Ready Sequencer Sue ready
+Mar 25, 2017 6:51:00 PM event.ReadyEvent processEvent
+INFO: Barcode reader: Sue, please go sequencing orders
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue visually inspected true
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue scan 11
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: scanned fascia sku #11
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue scan 12
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: scanned fascia sku #12
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue scan 43
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: scanned fascia sku #43
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue scan 44
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: scanned fascia sku #44
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue scan 31
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: scanned fascia sku #31
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue scan 32
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: scanned fascia sku #32
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue scan 1
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: scanned fascia sku #1
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Sequencer Sue scan 2
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: scanned fascia sku #2
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Sue: done sequencing
+Mar 25, 2017 6:51:00 PM event.SequencerEvent processEvent
+INFO: Barcode reader: Sue, please sequence the next set of orders
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Ready Loader Leo ready
+Mar 25, 2017 6:51:00 PM event.ReadyEvent processEvent
+INFO: Barcode reader: Leo, please go loading this request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Loader Leo scan 11
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Barcode reader: Leo, please load this request
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Leo: load the next request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Loader Leo scan 12
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Barcode reader: Leo, please load this request
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Leo: load the next request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Loader Leo scan 43
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Barcode reader: Leo, please load this request
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Leo: load the next request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Loader Leo scan 44
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Barcode reader: Leo, please load this request
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Leo: load the next request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Loader Leo scan 31
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Barcode reader: Leo, please load this request
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Leo: load the next request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Loader Leo scan 32
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Barcode reader: Leo, please load this request
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Leo: load the next request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Loader Leo scan 1
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Barcode reader: Leo, please load this request
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Leo: load the next request
+Mar 25, 2017 6:51:00 PM warehouse.Simulator simulate
+INFO: Line from event file: Loader Leo scan 2
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Barcode reader: Leo, please load this request
+Mar 25, 2017 6:51:00 PM event.LoaderEvent processEvent
+INFO: Leo: load the next request
